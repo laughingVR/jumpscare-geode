@@ -18,11 +18,11 @@ Example files structure:
 ```
 config/weebify.jumpscare/
 ├── jumpscare/
-│   ├── jumpscare.png
-│   └── jumpscareAudio.mp3
+│   ├── catnap x dogday jumpscare.png
+│   └── sus-clapping_7e8OtBO.mp3
 └── gdcologne/
-    ├── jumpscare.png
-    └── jumpscareAudio.mp3
+    ├── catnap x dogday jumpscare.png
+    └── sus-clapping_7eBOtBO.mp3
 ```
 
 # Special thanks to:
